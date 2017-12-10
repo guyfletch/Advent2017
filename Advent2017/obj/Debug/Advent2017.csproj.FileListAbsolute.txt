@@ -1,0 +1,47 @@
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\bin\Debug\Advent2017.exe.config
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\Advent2017.exe
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\Advent2017.pdb
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\Advent2017.csprojResolveAssemblyReference.cache
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\MainWindow.g.cs
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\App.g.cs
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\Advent2017_MarkupCompile.cache
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\Advent2017_MarkupCompile.lref
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\bin\Debug\Advent2017.exe
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\bin\Debug\Advent2017.pdb
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\MainWindow.baml
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\Advent2017.g.resources
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\Advent2017.Properties.Resources.resources
+C:\Users\guy\Downloads\Advent2017-20171202T130017Z-001\Advent2017\Advent2017\obj\Debug\Advent2017.csproj.GenerateResource.Cache
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\bin\Debug\Resources\christmastree.ico
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\bin\Debug\Advent2017.exe.config
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\bin\Debug\Advent2017.exe
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\bin\Debug\Advent2017.pdb
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\MainWindow.g.cs
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\App.g.cs
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\Advent2017_Content.g.cs
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\Advent2017_MarkupCompile.cache
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\Advent2017_MarkupCompile.lref
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\MainWindow.baml
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\Advent2017.g.resources
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\Advent2017.Properties.Resources.resources
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\Advent2017.csproj.GenerateResource.Cache
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\Advent2017.csproj.CoreCompileInputs.cache
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\Advent2017.exe
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\Advent2017.pdb
+C:\Users\G.Fletcher-wood\Documents\Visual Studio 2017\Projects\Advent2017\Advent2017\obj\Debug\Advent2017.csprojResolveAssemblyReference.cache
+C:\Users\guy\Downloads\Advent2017\Advent2017\bin\Debug\Advent2017.exe.config
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\Advent2017.exe
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\Advent2017.pdb
+C:\Users\guy\Downloads\Advent2017\Advent2017\bin\Debug\Resources\christmastree.ico
+C:\Users\guy\Downloads\Advent2017\Advent2017\bin\Debug\Advent2017.exe
+C:\Users\guy\Downloads\Advent2017\Advent2017\bin\Debug\Advent2017.pdb
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\Advent2017.csprojResolveAssemblyReference.cache
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\MainWindow.g.cs
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\App.g.cs
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\Advent2017_Content.g.cs
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\Advent2017_MarkupCompile.cache
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\Advent2017_MarkupCompile.lref
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\MainWindow.baml
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\Advent2017.g.resources
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\Advent2017.Properties.Resources.resources
+C:\Users\guy\Downloads\Advent2017\Advent2017\obj\Debug\Advent2017.csproj.GenerateResource.Cache
