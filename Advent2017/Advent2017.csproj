@@ -66,16 +66,21 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Day1.cs" />
-    <Compile Include="Day10.cs" />
-    <Compile Include="Day2.cs" />
-    <Compile Include="Day3.cs" />
-    <Compile Include="Day4.cs" />
-    <Compile Include="Day5.cs" />
-    <Compile Include="Day6.cs" />
-    <Compile Include="Day7.cs" />
-    <Compile Include="Day8.cs" />
-    <Compile Include="Day9.cs" />
+    <Compile Include="DayClasses\Day1.cs" />
+    <Compile Include="DayClasses\Day10.cs" />
+    <Compile Include="DayClasses\Day11.cs" />
+    <Compile Include="DayClasses\Day12.cs" />
+    <Compile Include="DayClasses\Day13.cs" />
+    <Compile Include="DayClasses\Day14.cs" />
+    <Compile Include="DayClasses\Day15.cs" />
+    <Compile Include="DayClasses\Day2.cs" />
+    <Compile Include="DayClasses\Day3.cs" />
+    <Compile Include="DayClasses\Day4.cs" />
+    <Compile Include="DayClasses\Day5.cs" />
+    <Compile Include="DayClasses\Day6.cs" />
+    <Compile Include="DayClasses\Day7.cs" />
+    <Compile Include="DayClasses\Day8.cs" />
+    <Compile Include="DayClasses\Day9.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -117,6 +122,21 @@
     <None Include="Resources\Day2Input.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Resources\Day15Input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Day14Input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Day13Input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Day12Input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Day11Input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Resources\Day10Input.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>

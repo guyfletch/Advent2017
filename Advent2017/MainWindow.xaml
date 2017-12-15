@@ -21,6 +21,11 @@
             <ComboBoxItem Content="Day8"/>
             <ComboBoxItem Content="Day9"/>
             <ComboBoxItem Content="Day10"/>
+            <ComboBoxItem Content="Day11"/>
+            <ComboBoxItem Content="Day12"/>
+            <ComboBoxItem Content="Day13"/>
+            <ComboBoxItem Content="Day14"/>
+            <ComboBoxItem Content="Day15"/>
         </ComboBox>
         <StackPanel Margin="180,40,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">
             <RadioButton GroupName="rbPart" x:Name="rbPart1" Content="Part 1" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top" IsChecked="True"/>

@@ -114,6 +114,41 @@ namespace Advent2017
                         }
                         tbAnswer.Text = new Day10(inputString, part2).answer;
                         break;
+                    case "Day11":
+                        if(inputString == "")
+                        {
+                            inputString = Properties.Resources.Day11Input;
+                        }
+                        tbAnswer.Text = new Day11(inputString, part2).answer;
+                        break;
+                    case "Day12":
+                        if(inputString == "")
+                        {
+                            inputString = Properties.Resources.Day12Input;
+                        }
+                        tbAnswer.Text = new Day12(inputString, part2).answer;
+                        break;
+                    case "Day13":
+                        if(inputString == "")
+                        {
+                            inputString = Properties.Resources.Day13Input;
+                        }
+                        tbAnswer.Text = new Day13(inputString, part2).answer;
+                        break;
+                    case "Day14":
+                        if(inputString == "")
+                        {
+                            inputString = Properties.Resources.Day14Input;
+                        }
+                        tbAnswer.Text = new Day14(inputString, part2).answer;
+                        break;
+                    case "Day15":
+                        if(inputString == "")
+                        {
+                            inputString = Properties.Resources.Day15Input;
+                        }
+                        tbAnswer.Text = new Day15(inputString, part2).answer;
+                        break;
                 }
             }
             else

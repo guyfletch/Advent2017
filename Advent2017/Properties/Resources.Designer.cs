@@ -19,7 +19,7 @@ namespace Advent2017.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Resources {
@@ -71,11 +71,129 @@ namespace Advent2017.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 31,2,85,1,80,109,35,63,98,255,0,13,105,254,128,33.
         /// </summary>
         public static string Day10Input {
             get {
                 return ResourceManager.GetString("Day10Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to se,se,se,se,s,s,nw,s,sw,se,se,sw,sw,sw,se,nw,sw,nw,se,nw,nw,s,nw,nw,n,ne,n,n,sw,n,n,n,nw,n,ne,n,n,n,n,n,s,ne,se,nw,n,sw,n,n,ne,ne,n,n,s,n,n,n,ne,n,n,ne,ne,ne,ne,ne,ne,ne,sw,ne,nw,ne,se,ne,ne,se,ne,ne,sw,ne,nw,n,se,nw,se,ne,se,ne,nw,se,se,se,se,se,se,se,se,se,se,ne,ne,se,se,se,s,ne,se,se,se,se,s,ne,se,se,se,se,se,s,s,se,nw,se,se,s,s,se,s,se,s,se,ne,s,s,s,s,s,s,s,s,se,s,s,n,sw,s,s,s,n,s,s,sw,s,s,s,s,s,nw,s,s,sw,s,s,s,s,ne,s,sw,sw,sw,sw,se,nw,s,s,s,nw,s,s,sw,sw,sw,s,nw,sw,sw,s,s,s,nw,sw,se,sw,s,s,sw,sw,s,sw,ne [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string Day11Input {
+            get {
+                return ResourceManager.GetString("Day11Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0 &lt;-&gt; 1352, 1864
+        ///1 &lt;-&gt; 430
+        ///2 &lt;-&gt; 1202, 1416
+        ///3 &lt;-&gt; 303, 363, 635
+        ///4 &lt;-&gt; 1041, 1383
+        ///5 &lt;-&gt; 143, 1513
+        ///6 &lt;-&gt; 6
+        ///7 &lt;-&gt; 619
+        ///8 &lt;-&gt; 167, 1246, 1822
+        ///9 &lt;-&gt; 577, 1274, 1347
+        ///10 &lt;-&gt; 10, 899
+        ///11 &lt;-&gt; 790
+        ///12 &lt;-&gt; 606
+        ///13 &lt;-&gt; 1134, 1894
+        ///14 &lt;-&gt; 539, 1974
+        ///15 &lt;-&gt; 683, 1783
+        ///16 &lt;-&gt; 438, 1235
+        ///17 &lt;-&gt; 17
+        ///18 &lt;-&gt; 760, 1162
+        ///19 &lt;-&gt; 1146
+        ///20 &lt;-&gt; 678, 1235, 1397, 1911
+        ///21 &lt;-&gt; 127, 615, 980
+        ///22 &lt;-&gt; 22, 187
+        ///23 &lt;-&gt; 192, 552
+        ///24 &lt;-&gt; 169
+        ///25 &lt;-&gt; 471
+        ///26 &lt;-&gt; 1030, 1329, 1333
+        ///27 &lt;-&gt; 1404
+        ///28 &lt;-&gt; 1249
+        ///29 &lt;-&gt; 1755
+        ///30 &lt;-&gt; 198
+        ///31  [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string Day12Input {
+            get {
+                return ResourceManager.GetString("Day12Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0: 4
+        ///1: 2
+        ///2: 3
+        ///4: 5
+        ///6: 8
+        ///8: 4
+        ///10: 6
+        ///12: 6
+        ///14: 6
+        ///16: 10
+        ///18: 6
+        ///20: 12
+        ///22: 8
+        ///24: 9
+        ///26: 8
+        ///28: 8
+        ///30: 8
+        ///32: 12
+        ///34: 12
+        ///36: 12
+        ///38: 8
+        ///40: 10
+        ///42: 14
+        ///44: 12
+        ///46: 14
+        ///48: 12
+        ///50: 12
+        ///52: 12
+        ///54: 14
+        ///56: 14
+        ///58: 14
+        ///60: 12
+        ///62: 14
+        ///64: 14
+        ///68: 12
+        ///70: 14
+        ///74: 14
+        ///76: 14
+        ///78: 14
+        ///80: 17
+        ///82: 28
+        ///84: 18
+        ///86: 14.
+        /// </summary>
+        public static string Day13Input {
+            get {
+                return ResourceManager.GetString("Day13Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to stpzcrnm.
+        /// </summary>
+        public static string Day14Input {
+            get {
+                return ResourceManager.GetString("Day14Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Day15Input {
+            get {
+                return ResourceManager.GetString("Day15Input", resourceCulture);
             }
         }
         
