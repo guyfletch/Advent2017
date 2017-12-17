@@ -19,7 +19,7 @@ namespace Advent2017.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Resources {
@@ -189,11 +189,30 @@ namespace Advent2017.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to A 618
+        ///B 814.
         /// </summary>
         public static string Day15Input {
             get {
                 return ResourceManager.GetString("Day15Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x3/15,pc/l,x13/9,pe/f,x3/14,s2,x8/10,s15,x4/0,s4,pn/k,x9/13,s5,x3/6,s14,x9/14,s10,x5/13,ph/j,x11/8,s11,x0/15,pa/d,x3/1,pg/l,x6/5,s11,x12/13,pj/d,s1,x11/0,pm/f,x4/15,s5,x3/5,ph/c,x13/12,s15,x10/6,s11,x11/2,po/i,x0/9,s11,x11/15,s13,x7/3,s4,x12/13,s5,x14/11,pc/e,x1/7,s6,x3/5,pk/j,x7/0,ph/f,x10/8,s8,x13/6,pl/o,x8/0,s2,x4/13,pn/c,x1/12,po/g,x15/4,s8,x10/12,s4,x11/0,pp/d,x7/14,s6,pf/e,x2/15,pc/b,s14,x5/10,s12,x7/8,s4,x0/1,s12,x12/3,s6,pd/o,s9,x14/7,s5,pl/g,s11,po/m,x12/8,s11,x7/0,s1,x1/14,pe/c,x9/2,pa/j,s14,x8/1, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string Day16Input {
+            get {
+                return ResourceManager.GetString("Day16Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Day17Input {
+            get {
+                return ResourceManager.GetString("Day17Input", resourceCulture);
             }
         }
         

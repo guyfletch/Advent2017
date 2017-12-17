@@ -149,6 +149,20 @@ namespace Advent2017
                         }
                         tbAnswer.Text = new Day15(inputString, part2).answer;
                         break;
+                    case "Day16":
+                        if(inputString == "")
+                        {
+                            inputString = Properties.Resources.Day16Input;
+                        }
+                        tbAnswer.Text = new Day16(inputString, part2).answer;
+                        break;
+                    case "Day17":
+                        if(inputString == "")
+                        {
+                            inputString = Properties.Resources.Day17Input;
+                        }
+                        tbAnswer.Text = new Day17(inputString, part2).answer;
+                        break;
                 }
             }
             else

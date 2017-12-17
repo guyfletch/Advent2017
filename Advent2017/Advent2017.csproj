@@ -66,6 +66,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DayClasses\Day16.cs" />
     <Compile Include="DayClasses\Day1.cs" />
     <Compile Include="DayClasses\Day10.cs" />
     <Compile Include="DayClasses\Day11.cs" />
@@ -73,6 +74,7 @@
     <Compile Include="DayClasses\Day13.cs" />
     <Compile Include="DayClasses\Day14.cs" />
     <Compile Include="DayClasses\Day15.cs" />
+    <Compile Include="DayClasses\Day17.cs" />
     <Compile Include="DayClasses\Day2.cs" />
     <Compile Include="DayClasses\Day3.cs" />
     <Compile Include="DayClasses\Day4.cs" />
@@ -122,6 +124,12 @@
     <None Include="Resources\Day2Input.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Resources\Day17Input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Day16Input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Resources\Day15Input.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
