@@ -75,6 +75,8 @@
     <Compile Include="DayClasses\Day14.cs" />
     <Compile Include="DayClasses\Day15.cs" />
     <Compile Include="DayClasses\Day17.cs" />
+    <Compile Include="DayClasses\Day18.cs" />
+    <Compile Include="DayClasses\Day19.cs" />
     <Compile Include="DayClasses\Day2.cs" />
     <Compile Include="DayClasses\Day3.cs" />
     <Compile Include="DayClasses\Day4.cs" />
@@ -124,6 +126,12 @@
     <None Include="Resources\Day2Input.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Resources\Day19Input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Day18Input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Resources\Day17Input.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>

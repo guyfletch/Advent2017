@@ -71,7 +71,7 @@ namespace Advent2017
 
         }
 
-        private static void HashOnce(ref int length, ref int skip, ref int position, int[] hash, List<int> inputs)
+        public static void HashOnce(ref int length, ref int skip, ref int position, int[] hash, List<int> inputs)
         {
             foreach (var i in inputs)
             {
