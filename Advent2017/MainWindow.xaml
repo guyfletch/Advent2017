@@ -30,6 +30,7 @@
             <ComboBoxItem Content="Day17"/>
             <ComboBoxItem Content="Day18"/>
             <ComboBoxItem Content="Day19"/>
+            <ComboBoxItem Content="Day20"/>
         </ComboBox>
         <StackPanel Margin="180,40,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">
             <RadioButton GroupName="rbPart" x:Name="rbPart1" Content="Part 1" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top" IsChecked="True"/>

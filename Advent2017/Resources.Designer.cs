@@ -286,6 +286,25 @@ namespace Advent2017.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to p=&lt;-3770,-455,1749&gt;, v=&lt;-4,-77,53&gt;, a=&lt;11,7,-9&gt;
+        ///p=&lt;1430,195,-903&gt;, v=&lt;-123,60,20&gt;, a=&lt;5,-5,1&gt;
+        ///p=&lt;-2964,-3029,2594&gt;, v=&lt;-8,157,7&gt;, a=&lt;9,-3,-8&gt;
+        ///p=&lt;-6383,-4277,-3529&gt;, v=&lt;29,70,67&gt;, a=&lt;16,7,5&gt;
+        ///p=&lt;3458,4134,-3451&gt;, v=&lt;-12,-132,64&gt;, a=&lt;-9,-2,5&gt;
+        ///p=&lt;-702,5382,6208&gt;, v=&lt;-68,-45,-132&gt;, a=&lt;7,-12,-8&gt;
+        ///p=&lt;2353,-1261,-747&gt;, v=&lt;-37,8,-40&gt;, a=&lt;-4,3,5&gt;
+        ///p=&lt;481,6074,-5911&gt;, v=&lt;-64,-51,159&gt;, a=&lt;3,-9,2&gt;
+        ///p=&lt;-3084,-2792,1033&gt;, v=&lt;-29,43,15&gt;, a=&lt;8,3,-3&gt;
+        ///p=&lt;-325,1951,-7399&gt;, v=&lt;-86,50,47&gt;, a=&lt;6,-7,12&gt;
+        ///p=&lt;4170,-2482,2893&gt;, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string Day20Input {
+            get {
+                return ResourceManager.GetString("Day20Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 86	440	233	83	393	420	228	491	159	13	110	135	97	238	92	396
         ///3646	3952	3430	145	1574	2722	3565	125	3303	843	152	1095	3805	134	3873	3024
         ///2150	257	237	2155	1115	150	502	255	1531	894	2309	1982	2418	206	307	2370
